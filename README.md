@@ -1,16 +1,9 @@
 # music_app_internship_task
 
 A new Flutter project.
+In case of any trouble, do go to the below mentioned link  to access the complete working project from google drive!
+Drive - https://drive.google.com/drive/folders/1_VcAVuCp_RgwZEzWXvRKqKAqgGjj13eq?usp=sharing
 
-## Getting Started
+The Following project is part of an internship Entrance test that I was provided by Relu Consultancy. The Application is developed using Dart, Flutter, Json, and BloC pattern. It starts with a login and signup page that although not supplicated for, I added to provide a more personalized experience to the said user. Although the Application can work with Pseudo entries as well, The purpose of the login/signup was to provide a glimpse of what the actual working application has the potential to look like. After the login Signup, The user reaches the list of the latest songs that are imported using API-key and on selecting any song, the user is presented with the Lyrics and general Details of that song. The user can then bookmark the song for future references.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am attaching the scrrenshots that i obtained from running the application on my physical device for reference purposes.
